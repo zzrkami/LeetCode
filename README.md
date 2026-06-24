@@ -1,1 +1,1 @@
-Just for practicing LeetCode problems
+Just for practicing on LeetCode
